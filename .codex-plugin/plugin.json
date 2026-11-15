@@ -1,0 +1,6 @@
+{
+  "name": "ui-ux-visual-lighting-skills",
+  "version": "1.0.0",
+  "description": "UI/UX design, design systems, 3D/Three.js lighting & shaders, motion, and AI visual media generation skills.",
+  "skills": "./skills/"
+}
